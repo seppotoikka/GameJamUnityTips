@@ -9,7 +9,7 @@
     -	https://globalgamejam.org/jammer-resources
     -	https://assetstore.unity.com/lists/global-game-jam-2019-free-assets-63987
     -	https://github.com/kobitoko/Game-Jam-Tools-Resources
-    -	Opengameart.org
+    -	http://Opengameart.org
     -	https://sonniss.com/gameaudiogdc18/
     -	https://sonniss.com/gameaudiogdc2017/
 -	Unity tips:
