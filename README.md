@@ -2,9 +2,9 @@
 ## Tips for students coming to Global Game Jam 2019
 
 -	Use unity teams/collaborate for Unity project version control and sharing (max 3 ppl)
-  -	If you have more than 3 ppl using Unity and have team members skilled with GIT, use it!
+    -	If you have more than 3 ppl using Unity and have team members skilled with GIT, use it!
 -	For assets, use G Drive / Dropbox etc.
-  -	Make sure to organize everything so that every team member knows where to find things
+    -	Make sure to organize everything so that every team member knows where to find things
 -	Check out lists of free assets
     -	https://globalgamejam.org/jammer-resources
     -	https://assetstore.unity.com/lists/global-game-jam-2019-free-assets-63987
