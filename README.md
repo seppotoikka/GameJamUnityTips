@@ -13,6 +13,7 @@
     -	https://sonniss.com/gameaudiogdc18/
     -	https://sonniss.com/gameaudiogdc2017/
 -	Unity tips:
+    -   Make sure everyone uses same version of Unity!
     -	Decide first on if your game is 2D or 3D
           -	Unity is a 3D game engine, 2D means:
     -	Setting camera projection mode to orthographic
